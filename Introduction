@@ -1,0 +1,4 @@
+In this project we are solving the problem of buildings, socitey and the organisation of it's maintainence.
+Using our platform we user can access various services like renovation of home or society, electricity maintainnece, like various problems on vast level.
+We use ReactJs for front-end development with HTML, CSS and material ui for layouts.
+In back-end we use spirng boot to build Rest API and for security we use jwt authentication and spring security.
